@@ -7,19 +7,19 @@ Drosophila Video Tracking (DVT) is a comprehensive, and standardized high-throug
 ### Video tutorial: 
 [@figshare](https://figshare.com/articles/media/DVT_protocol_v1_0_20221013/21325701)
 [@Youtube](https://youtu.be/LsdizdKKhrQ)
-[@Bilibili](https://www.bilibili.com/video/BV1Ve411L7ep/)
+
 ### Demo videos:
 > w1118 flies behavior video:
 >> [@Youtube](https://youtu.be/GN9cKaYkeu8)  
->> [@ Bilibili](https://www.bilibili.com/video/BV1ze4y1E7xj/)
+
 
 > w1118 flies behavior video with background removed:
 >> [@Youtube](https://youtu.be/Qva7o2YA_AQ)
->>[@Bilibili](https://www.bilibili.com/video/BV1bK411Q7qm/)
+
 
 > w1118 flies behavior video with identify annotated:
 >> [@Youtube](https://youtu.be/z7oV6d0CIHY)
->> [@Bilibili](https://www.bilibili.com/video/BV1me4y1v7t8/)
+
 
 > Github repositories: https://github.com/Xingyinliu-Lab/DVT 
 
